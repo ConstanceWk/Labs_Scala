@@ -144,8 +144,20 @@ case class Person(name: String, age: Int=30)
         case Red extends Color(0xFF0000)
         case Green extends Color(0x00FF00)
         case Blue extends Color(0x0000FF)
-    
-        
+    //Tuples
+
+    val t = (11, "People", Person("Steven"))
+
+    // Generics in scala 
+    val list: List[Any] List(
+        "a string",
+        732,
+        'c',
+        '/',
+        true,
+        () => "an anonymous function"
+    )
+
 
     // ------------------------------------- EXERCISE 1 ------------------------------------- //
     // Introduce a list of 5 Person
@@ -164,3 +176,7 @@ case class Person(name: String, age: Int=30)
     println("Persons over 40:")
     for person <- personsOver40 do
         println(person.name)
+
+
+    // ------------------------------------- EXERCISE 2 ------------------------------------- //
+    
