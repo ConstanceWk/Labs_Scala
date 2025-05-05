@@ -193,4 +193,4 @@ def sumOfSquaresOfEven(numbers: List[Int]): Int = {
   val numbers = List(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
   val result = sumOfSquaresOfEven(numbers)
   println(s"Sum of squares of even numbers: $result") // Should print: Sum of squares of even numbers: 220
-}
+} 

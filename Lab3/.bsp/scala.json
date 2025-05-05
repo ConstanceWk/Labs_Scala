@@ -11,12 +11,12 @@
     "--skip-cli-updates",
     "bsp",
     "--json-options",
-    "/Users/constancewalusiak/Documents/GitHub/Labs_Scala/.scala-build/ide-options-v2.json",
+    "/Users/constancewalusiak/Documents/GitHub/Labs_Scala/Lab3/.scala-build/ide-options-v2.json",
     "--json-launcher-options",
-    "/Users/constancewalusiak/Documents/GitHub/Labs_Scala/.scala-build/ide-launcher-options.json",
+    "/Users/constancewalusiak/Documents/GitHub/Labs_Scala/Lab3/.scala-build/ide-launcher-options.json",
     "--envs-file",
-    "/Users/constancewalusiak/Documents/GitHub/Labs_Scala/.scala-build/ide-envs.json",
-    "/Users/constancewalusiak/Documents/GitHub/Labs_Scala"
+    "/Users/constancewalusiak/Documents/GitHub/Labs_Scala/Lab3/.scala-build/ide-envs.json",
+    "/Users/constancewalusiak/Documents/GitHub/Labs_Scala/Lab3/Lab3_Ex1.scala"
   ],
   "version": "1.5.4",
   "bspVersion": "2.1.1",
