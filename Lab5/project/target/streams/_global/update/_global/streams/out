@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/constancewalusiak/Documents/GitHub/Labs_Scala/Lab5/project/"), "lab5-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating lab5-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved lab5-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of lab5-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of lab5-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/constancewalusiak/Documents/GitHub/Labs_Scala/Lab5/project/"), "lab5-build")[0m
